@@ -26,8 +26,14 @@ https://docs.google.com/spreadsheets/d/1ONTfOuqs8-C6l8F8z3rU-j2QJ_qnPTsDXZTcjUcf
 Deskripsi :
 Smart Home berbasis Iot merupakan proyek sederhana untuk mendeteksi kebakaran dan kebocoran gas. Sensor yang digunakan pada rangkaian ini adalah DHT11 dan MQ-2. Sensor DHT11 digunakan untuk mendeteksi kebakaran, sedangkan sensor MQ-2 digunakan untuk mendeteksi kebocoran gas. Kondisi untuk kebakaran adalah jika suhu lebih dari 20 derajat celcius. Kondisi untuk kebocoran gas adalah jika kadar LPG di udara lebih dari 30 ppm. Jika salah satu kondisi tersebut terjadi, maka alarm yang terdiri dari LED dan Buzzer akan aktif. Jika kondisi sudah tidak terjadi, maka alarm akan mati. Selain kadar LPG, rangkaian ini juga bisa mendeteksi kadar karbon monoksida dan asap di udara. Untuk memonitor suhu dan kadar gas yang ada di udara, menggunakan platform Blynk.
 
+
+MASTER NODE
 <p>
-<img src="https://github.com/gil037/posttest1-praktikum-iot-unmul/blob/main/gambar%20Board/board%20scematic.png?raw=true" height="500rm">
+<img src="https://github.com/gil037/posttest3-praktikum-iot-unmul/blob/main/gambar%20board/master_Node.png">
+    
+EDGE NODE
+<p>
+<img src="https://github.com/gil037/posttest3-praktikum-iot-unmul/blob/main/gambar%20board/edge_node.png">
 
 
 Link Video Presentasi https://drive.google.com/file/d/1w2UFcBx3M7WgpKGC1YA2m1eZI964DeM8/view?usp=share_link
