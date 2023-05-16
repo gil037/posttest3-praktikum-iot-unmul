@@ -36,4 +36,4 @@ EDGE NODE
 <img src="https://github.com/gil037/posttest3-praktikum-iot-unmul/blob/main/gambar%20board/edge_node.png">
 
 
-Link Video Presentasi https://drive.google.com/drive/folders/1T5MRZATpRZORixyVOV0060_LFtF9tWWs?usp=share_link
+Link Video Presentasi https://youtu.be/d36zioI9Pbs
